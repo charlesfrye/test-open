@@ -1,0 +1,7 @@
+program: log-run.py
+method: random
+project: test-open
+parameters:
+        foo:
+                values: [0, 1]
+
